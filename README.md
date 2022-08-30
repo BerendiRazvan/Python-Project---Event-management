@@ -1,2 +1,2 @@
 # Python-Project---Event-management
-Aceasta este o aplicație pentru gestiunea evenimentelor și a participanților la un eveniment, realizată folosind Python. Puteți adăuga, șterge, modifica și căuta evenimente sau persoane din cele disponibile. Puteți filtra și sorta datele. Aplicația are, de asemenea, opțiunea de a înscrie persoane la evenimente și multe alte opțiuni interesante. 
+This is an event and attendee management application built using Python. You can add, delete, modify and search for events or people from the available ones. You can filter and sort the data. The app also has the option to sign people up for events and many other cool options.
